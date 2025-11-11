@@ -1,0 +1,50 @@
+[
+  {
+    "slug": "sports-association",
+    "title": "Sports Association",
+    "description": "Simple static website for a sports association.",
+    "stack": ["HTML", "CSS", "Bootstrap", "JavaScript", "Firebase"],
+    "category": "Web",
+    "repo": "https://github.com/nikolapresecan/sports-association.git"
+  },
+  {
+    "slug": "development-agency",
+    "title": "Development Agency",
+    "description": "WordPress-based web system for a local development agency.",
+    "stack": ["WordPress", "PHP", "MySQL"],
+    "category": "Web",
+    "repo": "https://github.com/nikolapresecan/development-agency.git"
+  },
+  {
+    "slug": "itbook-store",
+    "title": "ITBook Store",
+    "description": "Desktop app for managing a small bookstore and lending system.",
+    "stack": ["C#", ".NET", "MS SQL"],
+    "category": "Desktop",
+    "repo": "https://github.com/nikolapresecan/itbook-store.git"
+  },
+  {
+    "slug": "gps-navigation",
+    "title": "GPS Navigation",
+    "description": "Android app that helps farmers manage and navigate their fields.",
+    "stack": ["Java", "Android", "Firebase"],
+    "category": "Mobile",
+    "repo": "https://github.com/nikolapresecan/gps-navigation.git"
+  },
+  {
+    "slug": "pcshop",
+    "title": "PCShop",
+    "description": "Full-stack web app for managing a computer equipment store.",
+    "stack": ["C#", ".NET Web API", "React", "MS SQL"],
+    "category": "Full-stack",
+    "repo": "https://github.com/nikolapresecan/pcshop.git"
+  },
+  {
+    "slug": "vacation-system",
+    "title": "Vacation System",
+    "description": "Full-stack web app for managing employee vacation requests.",
+    "stack": ["PHP", "Symfony", "React", "MySQL", "Docker"],
+    "category": "Full-stack",
+    "repo": "https://github.com/nikolapresecan/vacation-system.git"
+  }
+]
